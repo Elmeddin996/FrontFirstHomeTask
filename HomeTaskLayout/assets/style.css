@@ -1,0 +1,274 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+#page-name-logo{
+    display: inline;
+   
+    padding: 20px 10px;
+}
+.buy-now-button{
+    display: inline;
+    padding: 20px 10px;
+    background-color: #545454;
+}
+
+#header-menu a:hover, #header-envanto-market a:hover{
+    color:#FFFFFF;
+}
+#header-menu{
+    background-color: #545454; 
+}
+
+#header-logo img{
+    padding: 10px;
+   height: 90px;
+}
+
+.navs{
+    padding: 10px;
+    background-color: #545454;
+   
+}  
+#header-envanto-market{
+
+    background-color: #545454
+}
+
+
+.pages-menu{
+    color: white;
+    background-color: #545454;
+ }
+
+ .new-level-interier{
+  color: #FFFFFF;
+  background-color: #545454;
+ }
+ .new-level-interier a button{
+    background-color: black;
+    color: #FFFFFF;
+ }
+ #founder-info  {
+    color: #FFFFFF;
+    background-image: url(
+        ./background\ 2\ section.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#about-company{
+    display: inline;
+}
+
+.view-projects-buttons a button {
+    background-color: black;
+    color: #FFFFFF;
+}
+#partnyor-logos img {
+   padding: 5px 20px;
+   height: 55px;
+}
+#partnyor-logos{
+background-color:#F4F4F4 ;
+}
+
+
+#spaces-1 a h1{
+    font-size: 100px;
+    padding: 200px 100px;
+    background-image: url(./cate1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#spaces-1 a:visited{
+    color: rgb(151, 151, 151);
+}
+
+#spaces-1 a:hover{
+    color: rgb(167, 158, 33);
+}
+
+#spaces-2 a h2{
+    font-size: 100px;
+    padding: 200px 100px;
+    background-image: url(./cate2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#spaces-2 a:visited{
+    color: rgb(151, 151, 151);
+}
+
+#spaces-2 a:hover{
+    color: rgb(167, 158, 33);
+}
+
+#spaces-3 a h3{
+    font-size: 100px;
+    padding: 200px 100px;
+    background-image: url(./cate3.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#spaces-3 a:visited{
+    color: rgb(151, 151, 151);
+}
+
+#spaces-3 a:hover{
+    color: rgb(167, 158, 33);
+}  
+
+.design-planning a button:hover{
+color: aqua;
+background-color: #FFFFFF;
+}
+
+.design-planning a button{
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+.custom-solutions a button:hover{
+    color: aqua;
+    background-color: #FFFFFF;
+}
+    
+.custom-solutions a button{
+    color: #FFFFFF;
+    background-color: #000000;
+}
+    
+.furniture-decor a button:hover{
+    color: aqua;
+    background-color: #FFFFFF;
+}
+    
+.furniture-decor a button{
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+.oto-counter span{
+    font-size: 30px;
+    display: inline;
+    padding: 5px 20px;
+}
+
+.oto-counter h6{
+    font-size: 15px;
+    padding: 5px;
+    
+}
+
+#get-interior-design{
+background-image: url(./background\ 2\ section.jpg);
+
+}
+
+#get-interior-design span{
+    font-size: 50px;
+    display: inline;
+    padding: 5px 20px;
+}
+
+
+#get-interior-design p{
+    font-size: 20px;
+    padding: 5px 20px;
+}
+
+#get-interior-design  button{
+   
+    font-size: 40px;
+    display: inline;
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+#get-interior-design  button:hover{
+   
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+.our-skills span{
+ display: block;
+ padding: 10px 30px 0px;
+}
+
+.our-skills hr{
+    width: 15%;
+}
+
+#our-professionals h3{
+    font-size: 100px;
+    text-align: center;
+}
+#our-professionals img{
+    width: 19%;
+}
+
+#our-blog button, .kitchen-design button{
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+
+#our-blog button:hover, .kitchen-design button:hover{
+    background-color: #FFFFFF;
+    color: #000000;
+
+}
+
+.kitchen-design span, .best-sketch span, .materials span{
+    font-size: 30px;
+    display: block;
+    padding: 5px 20px;
+}
+
+.kitchen-design p, .best-sketch p, .materials p{
+    font-size: 20px;
+    display: inline;
+    padding: 5px 20px;
+}
+
+.footer-line{
+    background-color: #0f0f0f;
+    color: #FFFFFF;
+   
+}
+
+.footer-line img{ 
+    display: inline;
+    height: 80px;
+    padding: 10px 20px;
+}
+
+.contacts, .latest-projects, .subscribe{
+    padding: 10px 20px;
+}
+
+.subscribe>button:hover{
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.footer-line p>a:hover, .latest-projects a:hover,
+.footer-line>a:hover{
+    color: #FFFFFF;
+}
